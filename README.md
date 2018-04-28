@@ -61,7 +61,7 @@
 
 🍱 UNPACKING
 ------------
-
+<br />
 **1) Open both sketches from the "examples/M5Stack-SD-Update" menu.**
 
 <br />
@@ -73,7 +73,9 @@
 **3) Compile the "M5Stack-SD-Menu.ino" example.** <br />
 This sketch is the menu app. It must be (a) compiled and saved to the root directory of a micro SD card for persistence and (b) flashed onto the M5Stack.
 
-(a) In the Arduino IDE, go to Sketch / Export compiled binary , and compile the file. Rename the file "menu.bin" and copy it to the micro SD card. (b) Next, flash "menu.bin" to the M5Stack. 
+(a) In the Arduino IDE, go to Sketch / Export compiled binary , and compile the file. Rename the file "menu.bin" and copy it to the micro SD card. 
+
+(b) Next, flash "menu.bin" to the M5Stack. 
 
  Note that you won't need to (a) copy it if you previously extracted the SD-Content folder on the SD card.
 
